@@ -1,0 +1,1 @@
+docker-compose -p lb4 down
